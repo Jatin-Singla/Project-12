@@ -114,11 +114,11 @@ redL.scale=0.06;
   redL.velocityY = 3;
   redL.lifetime = 150;
 }
-/*
-function apple_eat (){
-if(apple.isTouching(rabbit)){
-  apple.visible = false
-}
+
+//function apple_eat (){
+//if(apple.isTouching(rabbit)){
+//apple.visible = false
+//}
 
 }
-*\
+
